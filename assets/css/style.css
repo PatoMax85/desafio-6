@@ -1,0 +1,26 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/* Hero Section */
+
+#Hero-Section {
+  background-image: url("../img/Foto\ cv.JPG");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 35%;
+  background-color: #444;
+}
+
+/* Mi expericencia */
+
+#Mis-trabajos .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.row {
+  justify-content: space-around;
+}
